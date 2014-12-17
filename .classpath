@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/jira-rest-java-client-2.0.0-m2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/jira-rest-java-client-2.0.0-m2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/jira-rest-java-client-2.0.0-m2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/jira-rest-java-client-core-2.0.0-m19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/Monografia turma 14/Correction/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/compositeArtifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maciel B/Desktop/TCC CIn/compositeContent.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

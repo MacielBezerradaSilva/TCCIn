@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Moto G</Name>
+    <Project>MotoG-Project</Project>
+    <Labels>
+      <Label>moto_g_brazil</Label>
+      <Label>moto_g</Label>
+    </Labels>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Moto X</Name>
+    <Project>MotoX-Project</Project>
+    <Labels>
+      <Label>moto_x_brazil</Label>
+      <Label>moto_x</Label>
+    </Labels>
+  </Product>
+</Products>

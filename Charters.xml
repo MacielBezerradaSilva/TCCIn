@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Charters>
+  <charter>
+    <etId>1</etId>
+    <name>Teste no CharterDaoXML 1</name>
+    <objective>Objective</objective>
+    <requirements/>
+    <setup>SET1</setup>
+    <notes>Notes</notes>
+    <keyAreas/>
+    <issuesToBeAware>Issues</issuesToBeAware>
+    <importantNotes/>
+    <maxTime>20</maxTime>
+    <minTime>10</minTime>
+  </charter>
+<charter>
+    <etId>2</etId>
+    <name>Teste no CharterDaoXML 1111111111</name>
+    <objective>Objective</objective>
+    <requirements/>
+    <setup>SET1</setup>
+    <notes>Notes</notes>
+    <keyAreas/>
+    <issuesToBeAware>Issues</issuesToBeAware>
+    <importantNotes/>
+    <maxTime>20</maxTime>
+    <minTime>10</minTime>
+  </charter>
+<charter>
+    <etId>3</etId>
+    <name>asd</name>
+    <objective>Testar</objective>
+    <requirements>123</requirements>
+    <setup>Cfg</setup>
+    <notes>Cm</notes>
+    <keyAreas>- Menu</keyAreas>
+    <issuesToBeAware>XB</issuesToBeAware>
+    <importantNotes>No</importantNotes>
+    <maxTime>30</maxTime>
+    <minTime>20</minTime>
+  </charter>
+<charter>
+    <etId>4</etId>
+    <name>TEA</name>
+    <objective>mfklsdnflkhkjhf</objective>
+    <requirements>lkfjakljfdaskljfkldajj</requirements>
+    <setup>faksdlfjkldasjfads</setup>
+    <notes>fadjfklasdjf</notes>
+    <keyAreas>jejfklejfk</keyAreas>
+    <issuesToBeAware>fefe</issuesToBeAware>
+    <importantNotes>fefe</importantNotes>
+    <maxTime>56</maxTime>
+    <minTime>10</minTime>
+  </charter>
+</Charters>
