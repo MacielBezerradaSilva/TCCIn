@@ -34,6 +34,8 @@ import org.xml.sax.SAXException;
 public class CharterDaoXML implements ICharterDAO {
 
     public synchronized void saveCharter1(Charter charter) throws IOException {
+    	
+    	String nome;
 
         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("Charters.xml", true)));
         out.println(charter.toString());
